@@ -1,0 +1,2 @@
+skills: gitbash,github,postman,sql,android studio,charles proxy,
+        jira,python
